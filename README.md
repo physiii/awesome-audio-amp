@@ -1,2 +1,2 @@
-# awesome-audio-project
-awesome audio stuff inside
+# awesome-audio-amp
+awesome audio inside
